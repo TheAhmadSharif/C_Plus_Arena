@@ -1,0 +1,31 @@
+01. Memory location is called address.
+02. Memory location are numbered sequentially.
+03. A pointer is a variabke that stores an address location
+04. They provide function to access
+05. Default value is null.
+06. Useful to use prefix of "p" for pointer variable
+07. Pointer is actually a data type that contain the address of another piece of data.
+
+
+Both are same
+int *numPtr = 100; 
+int* numPtr = 100;
+
+
+
+
+
+&variable name >> Prints variable memory location.
+
+
+& symobol is used to get the address of the variable.
+
+
+
+Why do we user pointer
+
+
+We use pointers because it's easier to give someone an address to your home than to give a copy of your home to everyone.
+
+
+Because copying big objects all over the places wastes time and memory.

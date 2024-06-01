@@ -1,0 +1,84 @@
+C++ does not include the more complicated data structures (e.g. vector) and their operations in the language itself. Instead, they are implemented in libraries. The combination of these libraries is usually called Standard Template Library (STL).
+
+————————————————————————
+Template
+————————————————————————
+
+Template is a complier abstraction. It allows to write generic code that  applies to various code
+
+——————————————————————————————
+Standard Templare Library
+——————————————————————————————
+
+https://www.linkedin.com/learning/c-plus-plus-standard-template-library/sequence-containers?autoSkip=true&autoplay=true&resume=false&u=76281980
+
+
+STL consists of four components
+1. Container // Collections of objects like vector, list
+2. Iterator // Traversal
+3. Algorithm // search, sort
+4. Functor
+
+Container is collection of objects.
+
+Conatiner has 4 data type
+———————————
+Sequence
+———————————
+01. Vector
+02. List
+03. Deques
+04. Stacks
+05. Queues
+
+——————————————
+Associative
+——————————————
+
+Unordered Associative
+
+
+
+Vector Dynamic size array
+support random access
+
+
+
+List it requires sequntial access. Insertion and delete is cheaper in list comapre to vector. Forwrd
+
+
+————————————————————————————————————————————————————————
+https://plus.tuni.fi/comp.cs.110/fall-2022/rounds_r04/r04_04_vector/
+————————————————————————————————————————————————————————
+The keyword const together with the reference makes it impossible to change the target of the reference. This makes passing by a reference parameter safer: The caller of the function knows that the function will not make any changes to the variable passed as a parameter.
+
+
+
+
+We have earlier mentioned deque that is very similar to vector, but less efficient. However, deque has the benefit that you can add elements to its beginning with the method push_front and remove them from the beginning with the method pop_front.
+
+There is also list which, despite the name, has nothing in common with the Python list structure, and you should not use list if you are not familiar with dynamic memory management.
+
+
+Please note that you cannot add elements to or remove them from the above kind of container in the body of the for loop.
+
+
+At this point, it is useful for you to get to know the C++ keyword auto, which deducts the data type. For example, the following line
+
+int i = 42;
+could also be written like as
+
+auto i = 42;
+
+
+
+———————————————————————————————————————————
+Difference Between Vector and List
+———————————————————————————————————————————
+contiguous = when you want to describe one thing touching another thing, or next to it but not actually touching.
+
+
+Vector is a type of dynamic array which has the ability to resize automatically after insertion or deletion of elements. The elements in vector are placed in contiguous storage so that they can be accessed and traversed using iterators. Element is inserted at the end of the vector.
+
+
+List is a double linked sequence that supports both forward and backward traversal. The time taken in the insertion and deletion in the beginning, end and middle is constant. It has the non-contiguous memory and there is no pre-allocated memory.

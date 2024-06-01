@@ -1,0 +1,8 @@
+Class is a data type
+object is value
+
+By default everything is private.
+Theree access modifier
+1. Private   // Restricted outside the class
+2. Public    // Access outside of the class
+3. Protected // In between private and protected

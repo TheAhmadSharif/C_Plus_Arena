@@ -1,0 +1,63 @@
+g++ -o test test.cpp
+./test
+
+
+
+#include <bits/stdc++.h>
+
+std::endl >> Break Line
+std::cout << a << std::endl;
+
+—————————————————————————————
+Data Type
+—————————————————————————————
+Integer                 int    4 Bytes
+Character               char   1 byte
+Boolean                 bool   1 Byte
+Floating Point          float  4 Byte
+Double Floating Point   double 8 Bytes
+Void                    void   0 Bytes
+
+Byte = 8 Bit
+
+float area = 64.74;
+double volume = 134.64534;
+bool cond = false;
+char test = 'h';
+
+
+C++11 = 2011
+
+
+
+—————————————————————————————
+Return 
+—————————————————————————————
+Statement
+
+terminates the whole function and returns to the code after the function call. So, if you write the statement inside a loop, also the loop terminates. 
+
+
+—————————————————————————————
+Break 
+—————————————————————————————
+
+Execution of a loop terminates, when the given condition becomes false. C++ other options to adjust loop execution. Statement
+
+
+
+—————————————————————————————
+17 Syyskuu 2022
+—————————————————————————————
+
+In C++, if you need to define a function that does not return any value (it is often called subroutine or subprogram), you can do it by using a special data type called void:
+
+
+
+
+—————————————————————————————
+Project idea
+—————————————————————————————
+File compression program
+Encryption software
+

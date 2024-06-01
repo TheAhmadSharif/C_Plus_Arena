@@ -1,0 +1,3 @@
+Maybe learn the basics of linked lists, binary trees, and heaps? It's what we're studying in data-structures right now.
+
+I'll suggest only one: Build a text editor (ascii terminal), with vertical and horizontal scrolling, insert/replace, search/replace, ...

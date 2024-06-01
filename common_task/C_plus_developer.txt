@@ -1,0 +1,71 @@
+—————————————————————————————
+Project Idea
+—————————————————————————————
+
+Text Editor
+
+
+Write a "simple" database from scratch. Like a super rundown version of sqlite that supports maybe just integers or something. Super complex but rewarding. When you get parsing, storage layer, buffer pools, query execution, query optiization, WAL and MVCC all thrown in.
+
+If you figure that is too easy, then make it a distributed database system.
+
+
+C++ is mostly used in projects where performance is most important
+
+
+
+https://www.reddit.com/r/cpp/comments/qtkb2s/modern_c_projects/
+
+Just as an interesting project. Make a simple calculator, front end http. Backend cpp, just as simple as any starting cpp project as you can think of. + - × ÷ but with an http serer in the middle both implemented by yous
+
+
+
+
+Proficiency writing in C/C++
+Experience working within Clang/LLVM or another compiler infrastructure
+Experience with OpenMP or another on-node shared-memory parallel programming model (e.g., pthreads, C/C++ threading, etc.)
+Experience with NVIDIA or AMD GPU architectures and programming models (e.g., CUDA, OpenCL, HIP, OpenACC, OpenMP 4.x/5.x offloading, etc.)
+Experience working in a production software environment using modern software development methodologies
+Willingness to collaborate, mentor, and be mentored in a highly collaborative environment
+
+
+Desired Characteristics:
+
+Technical Expertise:
+
+Strong knowledge of Object-Oriented Analysis and Design, Software Design Patterns and coding principles
+
+Hands-on experience in microservices architecture and development, Databases such as Oracle MySQL, Sybase, PostgreSQL etc.
+
+Strong Perl/shell scripting required
+
+5- 7 years experience in C/C++
+
+Preferred experience in ServiceMesh, Containers and Kubernetes technologies
+
+Preferred hands-on experience in building cloud-based software leveraging cloud and open-source technology and frameworks
+
+Experience in building scalable and highly available distributed systems
+
+Experience in assessing application performance and optimizing/improving it through design and best coding practices
+
+Be an expert in core data structures as well as algorithms and can implement them using language of choice
+
+Preferred understanding and experience in one of the public clouds (AWS, Azure) native services
+
+Experience in agile software development
+
+
+
+
+
+
+
+
+Strong practical knowledge of C++ programming skills
+Familiarity with binary data, multi-threading, real-time and distributed software systems
+Exposure to high-performance and low-latency software development
+A bachelor’s degree in computer science, engineering, or related field
+1-2 years of related work experience; internship experience counts
+High degree of organization and follow-through with meticulous attention to detail
+Ability to communicate clearly and concisely, verbally and in writing
