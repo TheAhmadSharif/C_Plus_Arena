@@ -1,0 +1,4 @@
+First-In-First-Out (FIFO) principle.
+
+
+In BFS FIFO is used. 

@@ -1,0 +1,14 @@
+git@github.com:TheAhmadSharif/C_Plus_Arena.git
+
+sudo apt-get install qtmultimedia5-dev
+
+ qt6 >= 6.2,
+ 
+ sudo apt install qt6-base-dev
+ 
+ https://askubuntu.com/questions/1404263/how-do-you-install-qt-on-ubuntu22-04
+ 
+ sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
+ sudo apt-get install build-essential
+
+

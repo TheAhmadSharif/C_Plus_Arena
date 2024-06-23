@@ -1,0 +1,8 @@
+How can I add 
+
+numner[1].emplace_back(2) // Explain this ??
+numner.emplace_back(2) 
+
+https://www.youtube.com/watch?v=v78tWnjklio
+
+https://github.com/CoffeeBeforeArch/cpp_data_structures/blob/6479fe27e28c1b4bb775f14185a5920e902dddee/algorithms/graph_algorithms/bfs/bfs.cpp#L4
