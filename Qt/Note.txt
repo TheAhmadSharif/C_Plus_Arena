@@ -1,5 +1,11 @@
 git@github.com:TheAhmadSharif/C_Plus_Arena.git
 
+https://www.qt.io/download-qt-installer
+
+––––––––––––– Install Qt 6.7  https://www.qt.io/download-qt-installer
+
+Step 1 Download first from here
+
 sudo apt-get install qtmultimedia5-dev
 
  qt6 >= 6.2,
@@ -11,4 +17,5 @@ sudo apt-get install qtmultimedia5-dev
  sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
  sudo apt-get install build-essential
 
+ sudo apt-get -y install build-essential openssl libssl-dev libssl1.0 libgl1-mesa-dev libqt5x11extras5 '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev libxkbcommon-dev libxkbcommon-x11-dev
 
